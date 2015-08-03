@@ -1,1 +1,8 @@
 a handsome boy!!
+
+sample:
+	lufei 
+	suolong 
+	shanzhi
+	hongfa
+	baidu
